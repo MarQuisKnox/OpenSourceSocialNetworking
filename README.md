@@ -1,4 +1,4 @@
-# OpenSourceSocialNetworking
+# Open Source Social Networking
 A handpicked list of Open Source Social Networking Software that doesn't suck (Alphabetically Sorted)
 
 | Name |Source| Demo| License|
