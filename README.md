@@ -9,6 +9,6 @@ A handpicked list of Open Source Social Networking Software that doesn't suck (A
 |Open Source Social Network|https://github.com/opensource-socialnetwork/opensource-socialnetwork|https://www.opensource-socialnetwork.org/demo|GNU General Public License v2|
 
 
-# Honarable Mentions
+## Honarable Mentions
 * Friendica
 * oxwall
