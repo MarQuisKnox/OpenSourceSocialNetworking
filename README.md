@@ -10,6 +10,8 @@ The current criteria for "not sucking" is:
 Not considered:
 
 1. Source Code cleanliness or any other aspect of the source code
+2. Peformance
+3. Scalability
 <br>
 <br>
 
