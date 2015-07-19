@@ -4,8 +4,8 @@ A handpicked list of Open Source Social Networking software that doesn't suck.<b
 
 The current criteria for "not sucking" is:
 
-1. UI
-2. Functionality
+1. Functionality
+2. UI (the User Interface)
 
 Not considered:
 
