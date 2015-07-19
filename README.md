@@ -15,14 +15,17 @@ Not considered:
 <br>
 <br>
 
+#### Top Candidates
 | Name |Source| Demo| License|
 | :------------- | :------------- |:-------------| :-----|
 |HumHub|https://github.com/humhub/humhub|https://humhub.org|GNU Affero General Public License v3|
 |jappix|https://github.com/jappix/jappix|http://jappix.org|GNU Affero General Public License| v3
 |movim|https://github.com/edhelas/movim|https://pod.movim.eu|GNU Affero General Public License v3|
-|OSSN|https://github.com/opensource-socialnetwork/opensource-socialnetwork|https://www.opensource-socialnetwork.org/demo|GNU General Public License v2|
 
 
 #### Honorable Mentions
-* Friendica (Notes: ugly)
-* oxwall (Notes: ugly)
+| Name |Source| Demo| License|
+| :------------- | :------------- |:-------------| :-----|
+|OSSN|https://github.com/opensource-socialnetwork/opensource-socialnetwork|https://www.opensource-socialnetwork.org/demo|GNU General Public License v2|
+|Friendica|https://github.com/friendica/friendica|http://dir.friendica.com/siteinfo|GNU Affero General Public License v3|
+|oxwall|https://github.com/oxwall/oxwall|http://demo.oxwall.org|Common Public Attribution License 1.0|
