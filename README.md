@@ -26,6 +26,6 @@ Not considered:
 #### Honorable Mentions
 | Name |Source| Demo| License|
 | :------------- | :------------- |:-------------| :-----|
-|OSSN|https://github.com/opensource-socialnetwork/opensource-socialnetwork|https://www.opensource-socialnetwork.org/demo|GNU General Public License v2|
 |Friendica|https://github.com/friendica/friendica|http://dir.friendica.com/siteinfo|GNU Affero General Public License v3|
+|OSSN|https://github.com/opensource-socialnetwork/opensource-socialnetwork|https://www.opensource-socialnetwork.org/demo|GNU General Public License v2|
 |oxwall|https://github.com/oxwall/oxwall|http://demo.oxwall.org|Common Public Attribution License 1.0|
